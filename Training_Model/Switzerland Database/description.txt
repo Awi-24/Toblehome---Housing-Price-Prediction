@@ -1,0 +1,25 @@
+Visão Geral
+
+O encanto das casas suíças reside na sua integração harmoniosa com as deslumbrantes paisagens naturais, oferecendo aos residentes uma mistura única de tranquilidade e vida cosmopolita.
+
+A renomada estabilidade da Suíça, tanto econômica quanto política, adiciona uma camada de desejo ao seu mercado imobiliário. O compromisso do país com a qualidade de vida reflete-se não só na sua infraestrutura eficiente, mas também nos altos padrões de educação, saúde e bem-estar geral.
+
+No entanto, essa alta qualidade de vida e a experiência suíça sem igual têm um custo. Os preços das casas na Suíça refletem a exclusividade e a desejabilidade do mercado imobiliário, posicionando-o como um investimento tanto em luxo quanto em estilo de vida. Nesta jornada pelo mercado imobiliário suíço, desvendo as camadas desta narrativa cativante, ajudando você a explorar não apenas os números, mas a essência do que faz possuir uma casa na Suíça um sonho aspiracional para muitos - provavelmente também para você!?
+
+Arquivo
+
+    house_price_switzerland.csv - O conjunto completo de dados com 11 colunas.
+
+Colunas
+
+    ID - Um identificador único para cada objeto no conjunto de dados.
+    HouseType - Descreve o tipo de casa, como "Vila".
+    Size - Representa uma classificação de tamanho categórico, por exemplo, "L".
+    Price - Indica o valor da casa em Francos Suíços (CHF). Se NaN o preço é "Preço sob consulta".
+    LotSize - Especifica a área circundante da propriedade em metros quadrados.
+    Balcony - Indicador binário de se o objeto possui ou não um balcão (Sim/Não).
+    LivingSpace - Denota a área habitável da casa em metros quadrados.
+    NumberRooms - Indica o número total de quartos na casa.
+    YearBuilt - Representa o ano em que a casa foi construída.
+    Locality - Especifica a cidade ou vila onde o objeto está situado.
+    PostalCode - Corresponde ao código postal da localidade onde o objeto está localizado.
