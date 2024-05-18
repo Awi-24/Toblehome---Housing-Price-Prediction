@@ -49,7 +49,7 @@ function App() {
   
 
   return (
-    <div className="container mx-auto p-4 text-red-700 font-serif w-3/4 h-full flex-col justify-center align-middle items-center pt-64">
+    <div className="container mx-auto p-4 text-red-700 font-serif w-/4 h-full flex-col justify-center align-middle items-center pt-44">
       <div className="flex flex-col justify-center align-middle items-center">
         <img src={Image} alt="Toblehome Logo" className="w-24 h-24 mx-auto" />
         <h1 className="text-5xl font-bold flex justify-center items-center pb-12">
